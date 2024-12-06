@@ -38,5 +38,5 @@ This project is licensed under the MIT License.
 ## Contact 📧
 For queries or feedback, feel free to reach out:
 
-Name: Veera Subrahmanya Vignesh Vemula
-Email: vigneshsubbu53@gmail.com
+# Name: Veera Subrahmanya Vignesh Vemula
+# Email: vigneshsubbu53@gmail.com
