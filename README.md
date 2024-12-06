@@ -18,8 +18,7 @@
    ```bash  
    git clone https://github.com/VVSVIGNESH/education-point.git  
 
-2. Navigate to the project folder:
-  ```bash  
+2. Navigate to the project folder: 
    cd education-point  
 
 3. Set up the database:
