@@ -20,7 +20,8 @@
 
 2. Navigate to the project folder:
    ```bash  
-   git clone https://github.com/VVSVIGNESH/education-point.git  
+   cd education-point
+    
 3. Set up the database:
 
 Import the provided SQL file into your database server.
